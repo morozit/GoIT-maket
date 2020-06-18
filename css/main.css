@@ -1,0 +1,14 @@
+
+
+  .post {
+    color: green;
+  }
+  
+  .post-link {
+    color: inherit;
+  }
+
+.post a {
+    color: inherit;
+}
+
